@@ -1,6 +1,6 @@
 # Friend Finder
 
- [Find a Friend!](https://friend-finder-fsfs.herokuapp.com/)
+ **[Find a Friend!](https://friend-finder-fsfs.herokuapp.com/)**
 
 ![friend-finder](https://user-images.githubusercontent.com/28829258/53590763-85d8fc00-3b60-11e9-932e-3a46b211052e.png)
 
@@ -17,7 +17,7 @@ Friend Finder implements friend matching based on the user's responses to a ten-
 
 * HTML 
 * CSS
-* JavaScript
+* JavaScript 
 
 ### Dependencies
 
