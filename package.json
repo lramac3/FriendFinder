@@ -1,5 +1,5 @@
 {
-  "name": "FriendFinder",
+  "name": "friendfinder",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -12,13 +12,14 @@
     "url": "git+https://github.com/lramac3/FriendFinder.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Linu Ramachandran",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/lramac3/FriendFinder/issues"
   },
   "homepage": "https://github.com/lramac3/FriendFinder#readme",
   "dependencies": {
+    "body-parser": "^1.18.3",
     "express": "^4.16.4",
     "path": "^0.12.7"
   }
