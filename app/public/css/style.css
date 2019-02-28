@@ -107,6 +107,11 @@
     text-align: center;
 }
 
+h1 {
+    font-size: 105 px;
+    color: rgba(92, 184, 92, 1); 
+}
+
 body {
     background-image: url("https://png.pngtree.com/thumb_back/fw800/photos/md/2017-09-08/walking_summer_sun_friends.jpeg");
     background-size: auto;
@@ -114,7 +119,7 @@ body {
     background-repeat: no-repeat;
     background-color: #9ad74b;
     text-align: center;
-    font-family: 'Ropa Sans', sans-serif;
+    /* font-family: 'Ropa Sans', sans-serif; */
     background-size: 100%;
 }
 
@@ -176,9 +181,6 @@ body {
     background: rgba(92, 184, 92, 1);
 }
 
-h1 {
-    font-size: 105 px;
-}
 
 #surveyBtn,
 #api {
